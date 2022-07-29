@@ -1,0 +1,55 @@
+baseurl: ''
+
+# Site settings
+title: SEOhyde
+email: seohyde725@gmail.com
+description: "왜 웹사이트를 비싼 돈 주고 밑기세요. 웹사이트에서 중요한건 얼마나 화려한지가 아니에요"
+intro-lead-in: 왜 웹사이트를 비싼 돈 주고 맡기세요?
+intro-heading: 중요한건 화려한 디자인이 아니에요
+service-btn: 서비스 보기
+
+# Service list
+services:
+  - title: 1. 기본 정적 페이지
+    price: 5000원
+    description: 회사 소개용 정적 웹 페이지를 제작해드립니다. 저희가 보여드리는 템플릿 중 맘에 드는걸 고르시면 영업일 3일 내에 만들어드립니다. 
+  - title: 2. 정적 페이지 + SEO
+    price: 50000원
+    description: 회사 소개용 정적 웹페이지를 검색엔진에 맞춰 제작해드립니다. 저희가 보여드리는 템플릿 중 맘에 드는걸 고르시면 영업일 3일 내에 검색엔진에 최적화시켜서 만들어드립니다. 
+  - title: 3. 커스텀 페이지 + 웹앱, 전문 SEO 컨설팅
+    price: 견적문의 10만원 ~ 
+    description: 원하는 형태의 커스텀 웹페이지 또는 동적 웹기반 서비스를 검색엔진에 맞춰 제작해드립니다.<br>기술적인 SEO와 함께 컨텐츠에 대한 검색엔진 최적화를 컨설팅해드립니다.
+people:
+- name: SEOhyde
+  pic: 1
+  position: Main Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: #
+  - title: facebook
+    url: #
+  - title: stack-overflow
+    url: #
+  - title: bitbucket 
+    url: #
+  - title: github
+    url: #
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 대구 남구 대경5길 75
+  - line: 2층
+
+# Build settings
+markdown: kramdown
+permalink: pretty
